@@ -1,0 +1,1 @@
+npx tailwindcss -o src/assets/css/dist/styles-o.css --minify
